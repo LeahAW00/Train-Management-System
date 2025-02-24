@@ -103,7 +103,6 @@ The project includes an build.xml file for Apache Ant, which automates the build
 
 Contributions are welcome! If you'd like to contribute, please fork the repository and create a pull request with your changes.
 
-
 ## Acknowledgments
 
 - Java Documentation: For providing comprehensive documentation on Java.
