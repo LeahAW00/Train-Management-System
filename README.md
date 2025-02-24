@@ -1,9 +1,3 @@
-# Train-Management-Systemm
-Leah A, [2/24/2025 7:31 PM]
-Yes, you should write the entire content provided in your README.md file. This ensures that your project is well-documented and easy to understand for anyone who clones your repository, including your instructor or future collaborators. Below is the complete content you should include in your README.md file:
-
----
-
 # Train Management System (TMS)
 
 ## Project Overview
@@ -32,10 +26,8 @@ Before running the project, ensure you have the following installed:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/LeahAW00/Train-Management-Systemm
    
-
 2. Compile the Project:
    - If using Apache Ant, run:
           ant compile
@@ -114,7 +106,6 @@ Contributions are welcome! If you'd like to contribute, please fork the reposito
 
 ## Acknowledgments
 
-Leah A, [2/24/2025 7:31 PM]
 - Java Documentation: For providing comprehensive documentation on Java.
 - Apache Ant: For simplifying the build process.
 - JUnit: For enabling unit testing in Java.
